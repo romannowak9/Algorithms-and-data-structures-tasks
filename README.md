@@ -1,3 +1,3 @@
-# ASD
+# Algorithms and data structures
 
-Zadania realizowane w ramach przedmiotu Algorytmu i Struktury Danych
+Implementation of a couple of data structures and some algorithms in Python.
